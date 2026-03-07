@@ -1,10 +1,40 @@
-- 👋 Hi, I’m @haihuynht
-- 👀 I’m interested in ...Python, ML, Data, Graphics, Embedded Programming, AI.
-- 🌱 I’m currently learning ...Python, C/C++, SQL, 
-- 💞️ I’m looking to collaborate on ...good first issues and all projects!
-- 📫 How to reach me ...
+# Hi, I'm Hai Huynh 👋
 
-<!---
-haihuynht/haihuynht is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+I'm an aspiring Automation and RF Test Engineer based in San Diego, CA.
+I have 3+ years of experience in electro-mechanical systems,
+digital and RF testing, and Android OS testing from my time at Qualcomm.
+
+## 🔭 Currently Working On
+- Python fundamentals and best practices
+- Robot Framework for test automation
+- RF Test Engineering development
+- Building a portfolio of automation projects
+
+## 🌱 Currently Learning
+- Python
+- Robot Framework
+- Git and GitHub
+- Linux and WSL2
+- Arduino and STM32
+
+## 🎯 Goals
+- Contribute to developing and assisting with Robot Framework,
+  Automation Engineering, and RF Test Engineering at work
+- Build automation tools using Robot Framework
+- Pursuing a Computer Science degree with the goal of grad school
+  through Georgia Tech Master of Science in Computer Science (OMSCS)
+  starting 2027
+
+## 🛠️ Tools and Technologies
+- Python
+- VS Code
+- Git and GitHub
+- Linux and WSL2
+- Robot Framework (in progress)
+- Arduino (in progress)
+- STM32 (in progress)
+
+## 📫 How to Reach Me
+- Email: h13xhuynh@gmail.com
+- Location: San Diego, CA
