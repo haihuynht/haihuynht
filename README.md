@@ -20,11 +20,10 @@ digital and RF testing, and Android OS testing from my time at Qualcomm.
 
 ## 🎯 Goals
 - Contribute to developing and assisting with Robot Framework,
-  Automation Engineering, and RF Test Engineering at work
+  Automation Engineering, and RF Test Engineering at work.
 - Build automation tools using Robot Framework
-- Pursuing a Computer Science degree with the goal of grad school
-  through Georgia Tech Master of Science in Computer Science (OMSCS)
-  starting 2027
+- Targeting a Bachelor of Science in Engineering Physics from University of California San Diego
+  as a long term academic goal.  
 
 ## 🛠️ Tools and Technologies
 - Python
