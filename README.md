@@ -22,8 +22,8 @@ digital and RF testing, and Android OS testing from my time at Qualcomm.
 - Contribute to developing and assisting with Robot Framework,
   Automation Engineering, and RF Test Engineering at work.
 - Build automation tools using Robot Framework
-- Targeting a Bachelor of Science in Engineering Physics from University of California San Diego
-  as a long term academic goal.  
+- Pursuing a Bachelor of Science in Computer Science through Western Governors University (WGU) with 
+  the long term goal of Georgia Tech Online Master of Science in Computer Science (OMSCS) with a focus in Computing Systems. 
 
 ## 🛠️ Tools and Technologies
 - Python
